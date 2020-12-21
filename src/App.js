@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with the Gizz Boys
+          I was changed on feature branch with the Gizz Boys
         </a>
       </header>
     </div>
